@@ -1,0 +1,318 @@
+title: Roxas Mod G AI Voice Remover
+originalAuthor: GeminiHero
+description: Removes AI Voices from the main mod. Please see the GitHub description for more detail. Place above Roxas Mod 3.0.
+specifications: 0
+dependencies: 
+assets:
+- name: voice\us\battle\al0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\al0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\bb0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\bb0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\ca0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\ca0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\dc0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\dc0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\eh0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\eh0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\hb0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\hb0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\he0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\he0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\lk0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\lk0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\mu0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\mu0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\nm0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\nm0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\tr0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\tr0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\tt0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: voice\us\battle\tt0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: voice\us\battle\wi0_sora.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: voice\us\battle\wi0_sora.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
